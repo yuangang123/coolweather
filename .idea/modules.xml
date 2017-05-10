@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication.iml" filepath="$PROJECT_DIR$/../MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broadcastbestpractice/broadcastbestpractice.iml" filepath="$PROJECT_DIR$/../broadcastbestpractice/broadcastbestpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/../broadcasttest/broadcasttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../callphone/callphone.iml" filepath="$PROJECT_DIR$/../callphone/callphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conteactstest/conteactstest.iml" filepath="$PROJECT_DIR$/../conteactstest/conteactstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coolweatther.iml" filepath="$PROJECT_DIR$/coolweatther.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datatran/datatran.iml" filepath="$PROJECT_DIR$/../datatran/datatran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../downloadservertest/downloadservertest.iml" filepath="$PROJECT_DIR$/../downloadservertest/downloadservertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../easyhelp/easyhelp.iml" filepath="$PROJECT_DIR$/../easyhelp/easyhelp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/../filepersistencetest/filepersistencetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/../fragmentbestpractice/fragmentbestpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/../fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpurlconnection/httpurlconnection.iml" filepath="$PROJECT_DIR$/../httpurlconnection/httpurlconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lbstest/lbstest.iml" filepath="$PROJECT_DIR$/../lbstest/lbstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../litepaltest/litepaltest.iml" filepath="$PROJECT_DIR$/../litepaltest/litepaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../materialtest/materialtest.iml" filepath="$PROJECT_DIR$/../materialtest/materialtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybroadcast/mybroadcast.iml" filepath="$PROJECT_DIR$/../mybroadcast/mybroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notificationmanager/notificationmanager.iml" filepath="$PROJECT_DIR$/../notificationmanager/notificationmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recycleview/recycleview.iml" filepath="$PROJECT_DIR$/../recycleview/recycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sharepreferencestest/sharepreferencestest.iml" filepath="$PROJECT_DIR$/../sharepreferencestest/sharepreferencestest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlitedatebasepreferencestest/sqlitedatebasepreferencestest.iml" filepath="$PROJECT_DIR$/../sqlitedatebasepreferencestest/sqlitedatebasepreferencestest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../takephototest/takephototest.iml" filepath="$PROJECT_DIR$/../takephototest/takephototest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uichatdesign/uichatdesign.iml" filepath="$PROJECT_DIR$/../uichatdesign/uichatdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webviewtest/webviewtest.iml" filepath="$PROJECT_DIR$/../webviewtest/webviewtest.iml" />
+    </modules>
+  </component>
+</project>
